@@ -1,22 +1,5 @@
 {
 			"type":"repository",
 			"version":"master",
-			"dependencies":[
-				{
-					"type":"linkRepository",
-					"name":"Fielo-Connectors/fielogrs"
-				},
-				{
-					"type":"linkRepository",
-					"name":"Fielo-Plugins/fielocms-fieloprp"
-				},
-				{
-					"type":"linkRepository",
-					"name":"Fielo-Plugins/fielocms-fieloelr"
-				},
-				{
-					"type":"linkRepository",
-					"name":"Fielo-Themes/origin"
-				}
-			]
+			"dependencies":[]
 		}
