@@ -9,7 +9,7 @@
         <name>StaticResource</name>
     </types>
     <types>
-	<members>Member__c.Date_of_First_Access__c</members>
+	<members>FieloPLT__Member__c.Date_of_First_Access__c</members>
 	<name>CustomField</name>
     </types>	
     <version>41.0</version>
