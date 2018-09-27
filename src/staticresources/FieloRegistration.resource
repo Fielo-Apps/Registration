@@ -19,7 +19,7 @@
         "value" : "FieloRegistration"
       }, {
         "apiName" : "fieloplt__version__c",
-        "value" : "1.000"
+        "value" : "1.001"
       }, {
         "apiName" : "fieloplt__externalid__c",
         "value" : "FieloRegistration"
