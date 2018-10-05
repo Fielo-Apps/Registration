@@ -1,2 +1,2 @@
 # CIP-Registration
-Fielo registrationXXX
+Fielo registration
