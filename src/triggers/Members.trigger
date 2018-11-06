@@ -8,7 +8,7 @@ trigger Members on FieloPLT__Member__c (after insert, after update) {
        }
        if(hasAgreement == true){
                 if(Trigger.isInsert){
-           			if (m.FieloPLT__Agreement__c != '' ) {
+           			if (m.FieloPLT__Agreement__c != null) {
             			registrationEvents.add( new FieloPLT__Event__c(FieloPLT__Member__c = m.Id, FieloPLT__Type__c = 'Registration') );
          			}
                 }else if(Trigger.isUpdate){
