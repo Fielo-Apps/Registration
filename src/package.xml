@@ -8,9 +8,5 @@
         <members>FieloRegistration</members>
         <name>StaticResource</name>
     </types>
-    <types>
-	<members>FieloPLT__Member__c.Date_of_First_Access__c</members>
-	<name>CustomField</name>
-    </types>	
     <version>41.0</version>
 </Package>
